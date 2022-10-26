@@ -1,0 +1,9 @@
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\bin\Debug\serverForm.exe
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\bin\Debug\serverForm.pdb
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\obj\Debug\serverForm.csprojAssemblyReference.cache
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\obj\Debug\serverForm.frmServer.resources
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\obj\Debug\serverForm.Properties.Resources.resources
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\obj\Debug\serverForm.csproj.GenerateResource.cache
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\obj\Debug\serverForm.csproj.CoreCompileInputs.cache
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\obj\Debug\serverForm.exe
+C:\Users\pezzotta.18163\Desktop\serverForm\serverForm\obj\Debug\serverForm.pdb
